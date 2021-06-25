@@ -1,1 +1,1 @@
-# Face_Detection_Alert_and_AWS_automation_terraform
+# Face Detection Alert using Python & AWS Automation using Terraform
